@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[(YurikoEX) => logger.Write();]]></title>
   <link href="http://YurikoEX.github.io/atom.xml" rel="self"/>
   <link href="http://YurikoEX.github.io/"/>
-  <updated>2013-12-27T23:57:30-05:00</updated>
+  <updated>2013-12-28T12:15:12-05:00</updated>
   <id>http://YurikoEX.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Joshua Taylor Lunsford]]></name>
+    <email><![CDATA[yurikoex@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
